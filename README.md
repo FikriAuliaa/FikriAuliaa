@@ -1,29 +1,31 @@
 ## Halo, saya Fikri 👋
 
-Mahasiswa **Institut Teknologi Sepuluh Nopember (ITS) Surabaya** yang fokus pada **data science dan AI engineering**. Saat ini juga menjabat sebagai **Head of ITS TV**, unit media resmi kampus ITS.
+Saya seorang **software developer** dan mahasiswa di **Institut Teknologi Sepuluh Nopember (ITS) Surabaya**. Sehari-hari saya membangun aplikasi web full-stack, mulai dari merancang database dan menulis backend sampai menyiapkan Docker dan CI/CD agar aplikasinya siap dipakai.
 
-Saya suka membangun sistem end-to-end: dari pipeline data dan model machine learning sampai aplikasi web yang siap di-deploy.
+Di luar itu, saya juga tertarik pada **data science dan AI**: mengolah data dalam skala besar, membangun model machine learning, dan bereksperimen dengan LLM.
 
-### 🔭 Fokus saat ini
-- Sistem *multimodal media retrieval* untuk arsip video ITS TV (Tugas Akhir)
-- Data engineering & streaming (Kafka, Spark)
-- Aplikasi full-stack dengan CI/CD dan Docker
+Saat ini saya juga dipercaya menjadi **Head of ITS TV**, unit media resmi kampus ITS.
 
-### 🛠️ Tech stack
-**Data & AI:** Python · Pandas · scikit-learn · Apache Kafka · PySpark · LangChain · LLM (IBM Granite)
-**Web:** TypeScript · Next.js · React · Laravel · Express · Tailwind CSS
-**Data store:** PostgreSQL · Prisma · Supabase · MongoDB
-**DevOps:** Docker · GitHub Actions · Nginx · Vercel
+### 🔭 Yang sedang saya kerjakan
+- Membangun aplikasi web full-stack yang rapi dan mudah di-deploy dengan Docker dan GitHub Actions
+- Tugas Akhir: sistem pencarian video *multimodal* untuk arsip ITS TV
+- Belajar lebih dalam soal data engineering dan pemrosesan data real-time
 
-### 📌 Proyek pilihan
-| Proyek | Deskripsi | Stack |
+### 🛠️ Tools yang biasa saya pakai
+- **Web:** TypeScript · Next.js · React · Laravel · Express · Tailwind CSS
+- **Database:** PostgreSQL · Prisma · Supabase · MongoDB
+- **DevOps:** Docker · GitHub Actions · Nginx · Vercel
+- **Data & AI:** Python · Pandas · scikit-learn · Apache Kafka · PySpark · LangChain
+
+### 📌 Beberapa proyek saya
+| Proyek | Tentang | Stack |
 |---|---|---|
-| [A3-FP-Bigdata](https://github.com/FikriAuliaa/A3-FP-Bigdata) | Analisis & rekomendasi aplikasi Google Play Store dengan K-Means dan Random Forest | Kafka · Python · Docker |
-| [sensor-gudang](https://github.com/FikriAuliaa/sensor-gudang) | Monitoring suhu & kelembaban gudang secara real-time | Kafka · PySpark |
-| [Granite](https://github.com/FikriAuliaa/Granite) | Eksperimen prompt engineering zero-shot & few-shot dengan LLM | LangChain · IBM Granite |
-| [Marivest](https://github.com/FikriAuliaa/Marivest) | Platform kemitraan investasi untuk usaha perikanan & kelautan | Next.js · Supabase |
-| [inventsel](https://github.com/FikriAuliaa/inventsel) | Sistem manajemen inventaris berbasis web | Laravel · Docker · Nginx |
-| [Project-Management-NPBM](https://github.com/FikriAuliaa/Project-Management-NPBM) | Manajemen proyek & tugas dengan kanban | React · Express · Prisma |
+| [Marivest](https://github.com/FikriAuliaa/Marivest) | Platform yang mempertemukan pelaku usaha perikanan dengan calon investor | Next.js · Supabase |
+| [Project-Management-NPBM](https://github.com/FikriAuliaa/Project-Management-NPBM) | Aplikasi manajemen proyek dengan papan kanban drag-and-drop | React · Express · Prisma |
+| [inventsel](https://github.com/FikriAuliaa/inventsel) | Aplikasi web untuk mencatat dan mengelola inventaris | Laravel · Docker · Nginx |
+| [A3-FP-Bigdata](https://github.com/FikriAuliaa/A3-FP-Bigdata) | Rekomendasi aplikasi Google Play Store dengan K-Means dan Random Forest | Kafka · Python · Docker |
+| [sensor-gudang](https://github.com/FikriAuliaa/sensor-gudang) | Pemantauan suhu dan kelembaban gudang secara real-time | Kafka · PySpark |
+| [Granite](https://github.com/FikriAuliaa/Granite) | Eksperimen prompt engineering dengan LLM IBM Granite | LangChain · Python |
 
-### 📫 Kontak
-Terbuka untuk diskusi, kolaborasi, dan peluang magang/kerja di bidang data & AI.
+### 📫 Mari terhubung
+Saya terbuka untuk ngobrol, berkolaborasi, atau mendiskusikan peluang magang dan kerja, terutama di bidang software development, data, dan AI.

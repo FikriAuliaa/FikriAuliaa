@@ -21,8 +21,8 @@ Saya suka membangun sistem end-to-end: dari pipeline data dan model machine lear
 | [A3-FP-Bigdata](https://github.com/FikriAuliaa/A3-FP-Bigdata) | Analisis & rekomendasi aplikasi Google Play Store dengan K-Means dan Random Forest | Kafka · Python · Docker |
 | [sensor-gudang](https://github.com/FikriAuliaa/sensor-gudang) | Monitoring suhu & kelembaban gudang secara real-time | Kafka · PySpark |
 | [Granite](https://github.com/FikriAuliaa/Granite) | Eksperimen prompt engineering zero-shot & few-shot dengan LLM | LangChain · IBM Granite |
-| [salamanexhibition](https://github.com/FikriAuliaa/salamanexhibition) | Company profile + ERP penyewaan alat event | Next.js · Prisma · PostgreSQL |
 | [Marivest](https://github.com/FikriAuliaa/Marivest) | Platform kemitraan investasi untuk usaha perikanan & kelautan | Next.js · Supabase |
+| [inventsel](https://github.com/FikriAuliaa/inventsel) | Sistem manajemen inventaris berbasis web | Laravel · Docker · Nginx |
 | [Project-Management-NPBM](https://github.com/FikriAuliaa/Project-Management-NPBM) | Manajemen proyek & tugas dengan kanban | React · Express · Prisma |
 
 ### 📫 Kontak
